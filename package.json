@@ -1,0 +1,14 @@
+{
+  "name": "react-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build" : "tsc"
+  },
+  "repository": "https://github.com/CREDO23/react-library.git",
+  "author": "CREDO23 <thierrybakera12@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
